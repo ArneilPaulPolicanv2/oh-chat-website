@@ -1,0 +1,8 @@
+# Android APKs are too big for git: copy them into downloads/ by hand (see README.md)
+downloads/
+*.apk
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
